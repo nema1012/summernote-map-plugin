@@ -1,0 +1,10 @@
+{
+  "name": "nema-summernote-map-plugin",
+  "version": "1.0.0",
+  "description": "Summernote plugin to add google maps",
+  "main": "summernote-map-plugin.js",
+  "author": "nema1012",
+  "dependencies": {
+    "summernote": "^0.8.2"
+  }
+}
